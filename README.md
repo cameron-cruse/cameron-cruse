@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at DePaul University
 ---------------------------------------------
 
-I am a senior at DePaul university studying Computer Science/Software Engineering. In my free time I am studying to become a full stack web developer. I'm currently working with React and NodeJS.
+I am a senior at DePaul university studying Computer Science/Software Engineering. 
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [cameron.cruse01@gmail.com](mailto:cameron.cruse01@gmail.com)
-* 🧠  I'm learning JS, React, NodeJS
+* 🧠  I'm learning JS, React
 * 🤝  I'm open to collaborating on any project
 
 ### Skills
