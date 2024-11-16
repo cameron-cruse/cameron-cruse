@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cameron Cruse
 =====================================================================================================================================
-
-Computer Science Student at DePaul University
 ---------------------------------------------
-
-I am a senior at DePaul university studying Computer Science/Software Engineering. 
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [cameron.cruse01@gmail.com](mailto:cameron.cruse01@gmail.com)
